@@ -1,5 +1,3 @@
-package assessment;
-
 public class Bird extends Animal
 {
     void fly() {
